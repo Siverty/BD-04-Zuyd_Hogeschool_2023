@@ -1,1 +1,3 @@
 # BD-04-Zuyd_Hogeschool_2023
+
+Dit onderzoek richt zich op het beoordelen van de effectiviteit van het HealthyLife programma in de huidige deelnemende gemeenten, evenals het bepalen of het zinvol is voor andere gemeenten om dit programma te implementeren. Het HealthyLife programma, samen met LiMe, heeft als doel om de gezondheid van Limburg te verbeteren. Het programma biedt een mogelijkheid voor mensen met een ongezonde levensstijl of obesitas om deel te nemen en gewicht te verliezen, op voorwaarde van doorverwijzing door een arts.
