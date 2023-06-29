@@ -1,0 +1,1 @@
+['AfstandTotHuisartsenpraktijk', 'AfstandTotCafetariaED', 'AfstandTotOpenNatTerreinTotaal', 'AfstandTotVerblijfsrecreatiefTerrein', 'AfstandTotPoppodium', 'AfstandTotZonnebank', 'ErvarenGezondheidGoedZeerGoed', 'EenOfMeerLangdurigeAandoeningen', 'MatigOvergewicht']

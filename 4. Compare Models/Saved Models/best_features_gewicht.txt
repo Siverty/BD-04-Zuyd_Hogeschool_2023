@@ -1,0 +1,1 @@
+['AfstandTotRestaurant', 'AfstandTotSportterrein', 'AfstandTotKunstijsbaan', 'AfstandTotMuseum', 'AfstandTotPodiumkunstenTotaal', 'AfstandTotBioscoop', 'AfstandTotSauna', 'BeperkingInZien', 'VoldoetAanBeweegrichtlijn', 'UrenMantelzorgPerWeek']

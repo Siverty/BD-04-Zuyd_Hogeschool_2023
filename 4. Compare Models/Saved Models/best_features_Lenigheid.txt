@@ -1,0 +1,1 @@
+['GeboorteRelatief', 'ALandbouwBosbouwEnVisserij', 'AfstandTotSchool', 'AfstandTotOpenNatNatuurlijkTerrein', 'AfstandTotSportterrein', 'AfstandTotMuseum', 'ErvarenGezondheidGoedZeerGoed', 'ErnstigOvergewichtObesitas', 'UrenMantelzorgPerWeek']

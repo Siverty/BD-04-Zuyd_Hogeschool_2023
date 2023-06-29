@@ -1,0 +1,1 @@
+['AfstandTotKinderdagverblijf', 'TotaalDiefstalUitWoningSchuurED', 'VernielingMisdrijfTegenOpenbareOrde', 'AfstandTotHotelED', 'AfstandTotSemiOpenbaarGroenTotaal', 'AfstandTotVerblijfsrecreatiefTerrein', 'AfstandTotBibliotheek', 'AfstandTotKunstijsbaan', 'AfstandTotMuseum', 'EenOfMeerLangdurigeAandoeningen', 'BeperkingInHoren', 'ZwaarBelasteMantelzorgers', 'Rokers']
