@@ -1,1 +1,1 @@
-['SterfteRelatief', 'AfstandTotApotheek', 'AfstandTotSportterrein', 'AfstandTotBelangrijkOverstapstation', 'AfstandTotSauna', 'AfstandTotAttractie', 'EenOfMeerLangdurigeAandoeningen']
+['SterfteRelatief', 'AfstandTotOpenbaarGroenTotaal', 'AfstandTotDagrecreatiefTerrein', 'AfstandTotSauna', 'ErvarenGezondheidGoedZeerGoed']

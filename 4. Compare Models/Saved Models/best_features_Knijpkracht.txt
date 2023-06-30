@@ -1,1 +1,1 @@
-['AfstandTotOpenNatNatuurlijkTerrein', 'BeperkingInZien']
+['AfstandTotBos', 'ZwaarBelasteMantelzorgers']

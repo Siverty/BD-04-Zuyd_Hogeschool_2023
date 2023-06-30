@@ -1,1 +1,1 @@
-['AfstandTotPodiumkunstenTotaal', 'AfstandTotPoppodium', 'ErvarenGezondheidGoedZeerGoed', 'Mantelzorger']
+['kPersonenMetLaagsteInkomen', 'AfstandTotKinderdagverblijf', 'AfstandTotConsultatiebureau', 'AfstandTotBuitenschoolseOpvang', 'AfstandTotOpenbaarGroenTotaal', 'AfstandTotOpenNatNatuurlijkTerrein', 'AfstandTotSemiOpenbaarGroenTotaal', 'AfstandTotBioscoop', 'AfstandTotSauna', 'BeperkingInHoren']
